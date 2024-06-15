@@ -1,0 +1,54 @@
+/*h1{
+   text-align: center;
+}*/
+
+
+.pages {
+   font-family: Arial Black;
+   width: 40%;
+}
+
+ul li a {
+   text-decoration: none;
+   color: #ffff;
+
+
+
+}
+
+ul li {
+   list-style-type: none;
+   display: inline;
+   margin-left: 20px;
+
+}
+
+.logo {
+   width: 30%;
+}
+
+.icon {
+   width: 30%;
+   margin-top: 40px;
+   padding-left: 15px;
+}
+
+.pages ul li a:hover {
+
+   color: black;
+}
+
+.pages ul li a {
+   margin-top: 40px;
+}
+
+.icon img {
+   margin-left: 40px;
+}
+
+.pages {
+   margin-top: 50px;
+}
+.nav-link:hover{
+   color: black !important;
+}
